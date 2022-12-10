@@ -58,8 +58,6 @@ public void draw()
     
   bob.move();
   bob.show();
-  
-  System.out.println(bob.getPointDirection());
 }
 
 public void keyPressed()
