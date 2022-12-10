@@ -58,6 +58,7 @@ public void draw()
     
   bob.move();
   bob.show();
+
 }
 
 public void keyPressed()
