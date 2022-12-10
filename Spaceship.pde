@@ -40,5 +40,3 @@ class Spaceship extends Floater {
    return (float)myPointDirection;
  }
 }
-
-
